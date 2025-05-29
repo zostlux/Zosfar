@@ -1,2 +1,3 @@
-# Zosfar
-zosfar is the fast fashion youth target fashion 
+git remote add origin https://github.com/AnshTiwari/zosfarclothes.git
+git branch -M main
+git push -u origin main
